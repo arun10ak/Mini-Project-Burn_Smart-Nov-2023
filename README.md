@@ -26,10 +26,12 @@ Predicting calorie burn during exercise is challenging due to various factors li
 - Use input attributes like height, weight, gender, age, heart rate, workout duration, and body temperature.
 - Implement the model in a scalable and efficient manner for real-time predictions.
 
+  **SYSTEM ARCHITECTURE**
+  
+  ![image](https://github.com/arun10ak/Mini-Project-Burn_Smart-Nov-2023/assets/117892039/7a6609cf-3fc5-414f-b581-e1aa7289b731)
+
 
 ## Key Objectives:
----
-
 - Develop and train machine learning models to predict calorie burn based on various factors such as heart rate, duration, body temperature, and individual characteristics like age, weight, height, and gender.
 - Compare the performance of different machine learning algorithms, including Linear Regression, Lasso Regression, Ridge Regression, Random Forest regression, and XGBRegressor.
 - Optimize the machine learning models to improve accuracy through hyperparameter tuning, feature selection, and data preprocessing.
