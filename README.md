@@ -3,7 +3,7 @@
 
 ### **Title**: Burn Smart (*Calorie Burn Prediction with Machine Learning*)
 ### Domain: Machine Learning
-### Implementation Python Code : 
+### Implementation Python Code : [Link](https://github.com/arun10ak/Mini-Project-Burn_Smart-Nov-2023/blob/main/Burn%20Smart%20Mini%20Project%20Code.py)
 ### Deployment Python Code :
 ## Overview of Project:
 ---
