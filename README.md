@@ -3,7 +3,8 @@
 
 ### **Title**: Burn Smart (*Calorie Burn Prediction with Machine Learning*)
 ### Domain: Machine Learning
-
+### Implementation Python Code : 
+### Deployment Python Code :
 ## Overview of Project:
 ---
 
@@ -19,7 +20,7 @@ The proposed system considers various algorithms and optimizes predictions to ac
 ---
 Predicting calorie burn during exercise is challenging due to various factors like height, weight, gender, duration, and body temperature. Machine learning can address this challenge by developing accurate models using input attributes such as heart rate, workout duration, and individual characteristics.
 
-### Dataset Used : [Data]()
+### Dataset Used : [Data](https://github.com/arun10ak/Mini-Project-Burn_Smart-Nov-2023/blob/main/Burn%20Smart%20Mini%20Project%20Code.py)
 ## Goals:
 ---
 - Develop an ML model to predict calories burned during exercise.
