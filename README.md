@@ -9,16 +9,17 @@
 
 This project focuses on using machine learning to accurately predict calorie burn during exercise. ML models will be trained on a diverse dataset and evaluated for generalization to new data. The goal is to develop an accurate and scalable model that can predict calories burned for a large number of users in real-time.
 
-#### Existing System
+### Existing System:
 The current system has limitations, including using only one algorithm for predictions and not optimizing its predictions based on all factors affecting calorie burn.
 
-#### Proposed System
+### Proposed System:
 The proposed system considers various algorithms and optimizes predictions to achieve the highest accuracy. It includes a webpage for prediction, recommendation, personalization, and anomaly detection.
 
 ## Problem Description:
 ---
 Predicting calorie burn during exercise is challenging due to various factors like height, weight, gender, duration, and body temperature. Machine learning can address this challenge by developing accurate models using input attributes such as heart rate, workout duration, and individual characteristics.
 
+### Dataset Used : [Data]()
 ## Goals:
 ---
 - Develop an ML model to predict calories burned during exercise.
@@ -34,6 +35,10 @@ Predicting calorie burn during exercise is challenging due to various factors li
 - Optimize the machine learning models to improve accuracy through hyperparameter tuning, feature selection, and data preprocessing.
 - Evaluate the performance of different algorithms and identify the best model for predicting calorie burn.
 - Develop a user-friendly interface to make predictive models accessible to a wide range of users.
+
+**StreamLit Webpage for Predicting Calories Burn:**
+
+![image](https://github.com/arun10ak/Mini-Project-Burn_Smart-Nov-2023/assets/117892039/b97676e6-3738-4a67-91b7-a7a5c559e50a)
 
 
 ## Conclusion:
