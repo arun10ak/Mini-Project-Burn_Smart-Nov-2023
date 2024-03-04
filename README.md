@@ -1,5 +1,5 @@
 # Mini Project: Nov-2023
 ---
 
-### Title: Burn Smart
+### **Title**: Burn Smart
 ### Domain: Machine Learning
